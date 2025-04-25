@@ -1,4 +1,4 @@
-Starbucks Clone Website
+
 This repository contains a clone of the Starbucks website, created using HTML, CSS, and JavaScript. The project aims to replicate the design and functionality of the official Starbucks website.
 
 ## Main Function Points
